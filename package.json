@@ -1,0 +1,21 @@
+  
+{
+  "name": "expressData",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "10.x"
+  },
+  "scripts": {
+    "start": "node app/index.js $PORT"
+  },
+  "keywords": [],
+  "author": "alejandro Sanchez Giraldo",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4"
+  }
+}
