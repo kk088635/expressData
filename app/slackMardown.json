@@ -4,7 +4,7 @@
 			"type": "section",
 			"text": {
 				"type": "plain_text",
-				"text": "SIMO | ContractCompleted",
+				"text": "SIMO | ContractCompleted \n MSISDN:61430006267 | PIN: 5175 \n MSISDN:61430006239 | PIN: 5175",
 				"emoji": true
 			}
 		},
@@ -12,7 +12,7 @@
 			"type": "section",
 			"text": {
 				"type": "plain_text",
-				"text": "MSISDN:61430006267 | PIN: 5175 \n MSISDN:61430006239 | PIN: 5175",
+				"text": "SIMO | MidContract \n MSISDN:61430006277 | PIN: 5175 \n MSISDN:61430006268 | PIN: 5175",
 				"emoji": true
 			}
 		}
