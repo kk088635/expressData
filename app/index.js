@@ -10,7 +10,15 @@ const app = express();
 app.use(bodyParser.json());
 app.use(cors())
 
-app.post('/', function ( res ) {
+app.get('/', function ( req, res ) {
+    res.send("Welcome to DATA POC")
+})
+
+app.get('/health', function ( req, res ) {
+    res.send("ok")
+})
+
+app.post('/', function ( req, res ) {
     res.send(data)
 })
 
