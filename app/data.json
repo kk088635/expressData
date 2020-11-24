@@ -4,6 +4,13 @@
             {
                 "type": "section",
                 "text": {
+                    "type": "mrkdwn",
+                    "text": "*Sim only attached* :vibration_mode:"
+                }
+            },			
+            {
+                "type": "section",
+                "text": {
                     "type": "plain_text",
                     "text": "SIMO | ContractCompleted \n MSISDN:61430006267 | PIN: 5175 \n MSISDN:61430006239 | PIN: 5175",
                     "emoji": true
@@ -39,6 +46,13 @@
     },
 "HANDSET": {
         "blocks": [
+            {
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": "*HANDSET attached* :iphone:"
+                }
+            },		
             {
                 "type": "section",
                 "text": {
